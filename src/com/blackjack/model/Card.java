@@ -7,4 +7,8 @@ public enum Card {
     FOUR_SPADES,
     FIVE_SPADES,
     SIX_SPADES,
+
+    ACE_CLUBS,
+    TWO_CLUBS,
+    THREE_CLUBS,
 }
